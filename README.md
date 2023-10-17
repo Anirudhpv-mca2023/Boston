@@ -1,7 +1,12 @@
 # Boston
-**Description :**
-The walk boston shows the top five earning employees and the details of the employees
-**Steps to Run the Project :**
-Press the github link to open the boston data
-**Future Improvements :**
-This Project can be further enhanced by creating a separate website to check the top earing employees
+
+**Description:**
+This JavaScript program retrieves and displays information about the top five earning employees in Boston, providing key details for each employee.
+
+**How to run the code:**
+step1:Save the HTML file with .html extension.
+step2:Click the "Go Live" button.A new browser window will open, displaying Boston data.
+
+**Future Enhancement:**
+Implementing a search or filter feature to allow users to specify custom criteria for identifying top earners within a larger dataset.
+
